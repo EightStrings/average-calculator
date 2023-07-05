@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="AverageCalculator.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AverageCalculator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="welcomeText" FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10"
+                   Text="Benvenuto nel Calcolatore di Medie!" Grid.Row="0" />
+
+        <TextBlock x:Name="subjectText" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10"
+                   Text="Inserisci le materie separate da virgola:" Grid.Row="1" />
+
+        <TextBox x:Name="subjectInput" FontSize="18" Margin="10" PlaceholderText="Esempio: Matematica, Italiano, Storia" Grid.Row="2" />
+
+        <TextBlock x:Name="gradeCountText" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10"
+                   Text="Inserisci il numero di voti per ogni materia:" Grid.Row="3" />
+
+        <TextBox x:Name="gradeCountInput" FontSize="18" Margin="10" PlaceholderText="Esempio: 5" Grid.Row="4" />
+
+        <Button x:Name="calculateButton" Content="Calcola Media" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"
+                Margin="10" Click="CalculateButton_Click" Grid.Row="5" />
+    </Grid>
+</Page>
