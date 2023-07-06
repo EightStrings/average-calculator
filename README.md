@@ -8,5 +8,6 @@ This is a simple Average Calculator written in Python with Terminal Version and 
 - Linux: Start with: .\average-calculator-xx-xx.py
 - macOS: If u are using macOS, install Python and start it as if you were using it on linux.
 # Screenshots
+## Terminal Version
 ![cmd_dJw8qBXVI5](https://github.com/EightStrings/average-calculator/assets/109584823/27632fc6-8ffe-4530-bdaf-e0fb8573a805)
 
