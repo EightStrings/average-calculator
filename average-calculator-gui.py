@@ -59,6 +59,8 @@ def calculate_averages():
 window = tk.Tk()
 window.title("Grade Calculator")
 window.geometry("400x300")
+# Greeting popup
+messagebox.showinfo("Welcome", "Welcome to the Average Grade Calculator!")
 
 # Label and input field for the number of subjects
 num_subjects_label = tk.Label(window, text="How many subjects do you want to calculate?")
