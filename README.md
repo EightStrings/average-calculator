@@ -11,7 +11,7 @@ This is a simple Average Calculator written in Python with Terminal Version and 
 ## Terminal Version
 ![cmd_dJw8qBXVI5](https://github.com/EightStrings/average-calculator/assets/109584823/27632fc6-8ffe-4530-bdaf-e0fb8573a805)
 ## GUI Version
-![python_3VSGwpm02c](https://github.com/EightStrings/average-calculator/assets/109584823/e2797788-9ff7-45c5-8bb6-a442d97b9cae)
+![python_dZvUBgcExQ](https://github.com/EightStrings/average-calculator/assets/109584823/4258bbdd-0b4f-453d-ae8c-559b5c32383f)
 ![python_aeDhaF9P9d](https://github.com/EightStrings/average-calculator/assets/109584823/4fcb499b-59ea-4ba9-8e8e-f334795e3192)
 ![python_kQnFVx6edY](https://github.com/EightStrings/average-calculator/assets/109584823/175211e7-a24e-47b1-b972-34ba3edfbc13)
 ![python_wZhWNA9o05](https://github.com/EightStrings/average-calculator/assets/109584823/e019ceec-ece0-4070-b84c-87cf2f46f571)
