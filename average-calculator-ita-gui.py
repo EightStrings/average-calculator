@@ -59,6 +59,8 @@ def calcolatore_medie():
 window = tk.Tk()
 window.title("Calcolatore di Medie")
 window.geometry("400x300")
+# Popup di Saluto
+messagebox.showinfo("Benvenuto", "Benvenuto nel Calcolatore di Medie!")
 
 # Etichetta e campo di input per il numero di materie
 num_materie_label = tk.Label(window, text="Quante materie vuoi calcolare?")
