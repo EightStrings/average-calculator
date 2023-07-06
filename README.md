@@ -1,3 +1,4 @@
+# This is a Beta Version it might be bugged
 # Average Calculator
 This is a simple Average Calculator written in Python with Terminal Version and GUI Version (for GUI Version i used the library "tkinter")
 # Language Support
