@@ -1,5 +1,5 @@
 # Average Calculator
-This is a simple Average Calculator currently writing in UWP C#
+This is a simple Average Calculator currently writing in C# UWP WinUI 2.8
 # Language Support
 - English
 - Italian
